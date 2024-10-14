@@ -1,0 +1,14 @@
+C:\Users\99450\Desktop\LastAlgorithmTasks1\LastAlgorithmTasks1\bin\Debug\net8.0\LastAlgorithmTasks1.exe
+C:\Users\99450\Desktop\LastAlgorithmTasks1\LastAlgorithmTasks1\bin\Debug\net8.0\LastAlgorithmTasks1.deps.json
+C:\Users\99450\Desktop\LastAlgorithmTasks1\LastAlgorithmTasks1\bin\Debug\net8.0\LastAlgorithmTasks1.runtimeconfig.json
+C:\Users\99450\Desktop\LastAlgorithmTasks1\LastAlgorithmTasks1\bin\Debug\net8.0\LastAlgorithmTasks1.dll
+C:\Users\99450\Desktop\LastAlgorithmTasks1\LastAlgorithmTasks1\bin\Debug\net8.0\LastAlgorithmTasks1.pdb
+C:\Users\99450\Desktop\LastAlgorithmTasks1\LastAlgorithmTasks1\obj\Debug\net8.0\LastAlgorithmTasks1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99450\Desktop\LastAlgorithmTasks1\LastAlgorithmTasks1\obj\Debug\net8.0\LastAlgorithmTasks1.AssemblyInfoInputs.cache
+C:\Users\99450\Desktop\LastAlgorithmTasks1\LastAlgorithmTasks1\obj\Debug\net8.0\LastAlgorithmTasks1.AssemblyInfo.cs
+C:\Users\99450\Desktop\LastAlgorithmTasks1\LastAlgorithmTasks1\obj\Debug\net8.0\LastAlgorithmTasks1.csproj.CoreCompileInputs.cache
+C:\Users\99450\Desktop\LastAlgorithmTasks1\LastAlgorithmTasks1\obj\Debug\net8.0\LastAlgorithmTasks1.dll
+C:\Users\99450\Desktop\LastAlgorithmTasks1\LastAlgorithmTasks1\obj\Debug\net8.0\refint\LastAlgorithmTasks1.dll
+C:\Users\99450\Desktop\LastAlgorithmTasks1\LastAlgorithmTasks1\obj\Debug\net8.0\LastAlgorithmTasks1.pdb
+C:\Users\99450\Desktop\LastAlgorithmTasks1\LastAlgorithmTasks1\obj\Debug\net8.0\LastAlgorithmTasks1.genruntimeconfig.cache
+C:\Users\99450\Desktop\LastAlgorithmTasks1\LastAlgorithmTasks1\obj\Debug\net8.0\ref\LastAlgorithmTasks1.dll
