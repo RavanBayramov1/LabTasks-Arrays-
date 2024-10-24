@@ -1,0 +1,14 @@
+C:\Users\99450\Desktop\EmployeeSalaryCalculation\EmployeeSalaryCalculation\bin\Debug\net8.0\EmployeeSalaryCalculation.exe
+C:\Users\99450\Desktop\EmployeeSalaryCalculation\EmployeeSalaryCalculation\bin\Debug\net8.0\EmployeeSalaryCalculation.deps.json
+C:\Users\99450\Desktop\EmployeeSalaryCalculation\EmployeeSalaryCalculation\bin\Debug\net8.0\EmployeeSalaryCalculation.runtimeconfig.json
+C:\Users\99450\Desktop\EmployeeSalaryCalculation\EmployeeSalaryCalculation\bin\Debug\net8.0\EmployeeSalaryCalculation.dll
+C:\Users\99450\Desktop\EmployeeSalaryCalculation\EmployeeSalaryCalculation\bin\Debug\net8.0\EmployeeSalaryCalculation.pdb
+C:\Users\99450\Desktop\EmployeeSalaryCalculation\EmployeeSalaryCalculation\obj\Debug\net8.0\EmployeeSalaryCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99450\Desktop\EmployeeSalaryCalculation\EmployeeSalaryCalculation\obj\Debug\net8.0\EmployeeSalaryCalculation.AssemblyInfoInputs.cache
+C:\Users\99450\Desktop\EmployeeSalaryCalculation\EmployeeSalaryCalculation\obj\Debug\net8.0\EmployeeSalaryCalculation.AssemblyInfo.cs
+C:\Users\99450\Desktop\EmployeeSalaryCalculation\EmployeeSalaryCalculation\obj\Debug\net8.0\EmployeeSalaryCalculation.csproj.CoreCompileInputs.cache
+C:\Users\99450\Desktop\EmployeeSalaryCalculation\EmployeeSalaryCalculation\obj\Debug\net8.0\EmployeeSalaryCalculation.dll
+C:\Users\99450\Desktop\EmployeeSalaryCalculation\EmployeeSalaryCalculation\obj\Debug\net8.0\refint\EmployeeSalaryCalculation.dll
+C:\Users\99450\Desktop\EmployeeSalaryCalculation\EmployeeSalaryCalculation\obj\Debug\net8.0\EmployeeSalaryCalculation.pdb
+C:\Users\99450\Desktop\EmployeeSalaryCalculation\EmployeeSalaryCalculation\obj\Debug\net8.0\EmployeeSalaryCalculation.genruntimeconfig.cache
+C:\Users\99450\Desktop\EmployeeSalaryCalculation\EmployeeSalaryCalculation\obj\Debug\net8.0\ref\EmployeeSalaryCalculation.dll
