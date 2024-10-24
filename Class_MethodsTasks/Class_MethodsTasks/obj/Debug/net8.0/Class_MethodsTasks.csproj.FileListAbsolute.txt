@@ -1,0 +1,14 @@
+C:\Users\I Novbe\Desktop\Class_MethodsTasks\Class_MethodsTasks\bin\Debug\net8.0\Class_MethodsTasks.exe
+C:\Users\I Novbe\Desktop\Class_MethodsTasks\Class_MethodsTasks\bin\Debug\net8.0\Class_MethodsTasks.deps.json
+C:\Users\I Novbe\Desktop\Class_MethodsTasks\Class_MethodsTasks\bin\Debug\net8.0\Class_MethodsTasks.runtimeconfig.json
+C:\Users\I Novbe\Desktop\Class_MethodsTasks\Class_MethodsTasks\bin\Debug\net8.0\Class_MethodsTasks.dll
+C:\Users\I Novbe\Desktop\Class_MethodsTasks\Class_MethodsTasks\bin\Debug\net8.0\Class_MethodsTasks.pdb
+C:\Users\I Novbe\Desktop\Class_MethodsTasks\Class_MethodsTasks\obj\Debug\net8.0\Class_MethodsTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\Desktop\Class_MethodsTasks\Class_MethodsTasks\obj\Debug\net8.0\Class_MethodsTasks.AssemblyInfoInputs.cache
+C:\Users\I Novbe\Desktop\Class_MethodsTasks\Class_MethodsTasks\obj\Debug\net8.0\Class_MethodsTasks.AssemblyInfo.cs
+C:\Users\I Novbe\Desktop\Class_MethodsTasks\Class_MethodsTasks\obj\Debug\net8.0\Class_MethodsTasks.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\Desktop\Class_MethodsTasks\Class_MethodsTasks\obj\Debug\net8.0\Class_MethodsTasks.dll
+C:\Users\I Novbe\Desktop\Class_MethodsTasks\Class_MethodsTasks\obj\Debug\net8.0\refint\Class_MethodsTasks.dll
+C:\Users\I Novbe\Desktop\Class_MethodsTasks\Class_MethodsTasks\obj\Debug\net8.0\Class_MethodsTasks.pdb
+C:\Users\I Novbe\Desktop\Class_MethodsTasks\Class_MethodsTasks\obj\Debug\net8.0\Class_MethodsTasks.genruntimeconfig.cache
+C:\Users\I Novbe\Desktop\Class_MethodsTasks\Class_MethodsTasks\obj\Debug\net8.0\ref\Class_MethodsTasks.dll
