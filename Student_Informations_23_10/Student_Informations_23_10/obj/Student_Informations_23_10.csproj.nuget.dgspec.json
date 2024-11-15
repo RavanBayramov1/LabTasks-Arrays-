@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\99450\\Desktop\\Student_Informations_23_10\\Student_Informations_23_10\\Student_Informations_23_10.csproj": {}
+    "C:\\Users\\99450\\Desktop\\LabTasks-Arrays-\\Student_Informations_23_10\\Student_Informations_23_10\\Student_Informations_23_10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\99450\\Desktop\\Student_Informations_23_10\\Student_Informations_23_10\\Student_Informations_23_10.csproj": {
+    "C:\\Users\\99450\\Desktop\\LabTasks-Arrays-\\Student_Informations_23_10\\Student_Informations_23_10\\Student_Informations_23_10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99450\\Desktop\\Student_Informations_23_10\\Student_Informations_23_10\\Student_Informations_23_10.csproj",
+        "projectUniqueName": "C:\\Users\\99450\\Desktop\\LabTasks-Arrays-\\Student_Informations_23_10\\Student_Informations_23_10\\Student_Informations_23_10.csproj",
         "projectName": "Student_Informations_23_10",
-        "projectPath": "C:\\Users\\99450\\Desktop\\Student_Informations_23_10\\Student_Informations_23_10\\Student_Informations_23_10.csproj",
+        "projectPath": "C:\\Users\\99450\\Desktop\\LabTasks-Arrays-\\Student_Informations_23_10\\Student_Informations_23_10\\Student_Informations_23_10.csproj",
         "packagesPath": "C:\\Users\\99450\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99450\\Desktop\\Student_Informations_23_10\\Student_Informations_23_10\\obj\\",
+        "outputPath": "C:\\Users\\99450\\Desktop\\LabTasks-Arrays-\\Student_Informations_23_10\\Student_Informations_23_10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\99450\\AppData\\Roaming\\NuGet\\NuGet.Config",

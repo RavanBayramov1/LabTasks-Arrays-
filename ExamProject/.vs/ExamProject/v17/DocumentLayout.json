@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99450\\Desktop\\ExamProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CE077-A715-4376-AF7B-4DCD1E7DAA2C}|ExamProject\\ExamProject.csproj|c:\\users\\99450\\desktop\\examproject\\examproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21CE077-A715-4376-AF7B-4DCD1E7DAA2C}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CE077-A715-4376-AF7B-4DCD1E7DAA2C}|ExamProject\\ExamProject.csproj|c:\\users\\99450\\desktop\\examproject\\examproject\\extentions\\listextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21CE077-A715-4376-AF7B-4DCD1E7DAA2C}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\extentions\\listextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CE077-A715-4376-AF7B-4DCD1E7DAA2C}|ExamProject\\ExamProject.csproj|c:\\users\\99450\\desktop\\examproject\\examproject\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21CE077-A715-4376-AF7B-4DCD1E7DAA2C}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21CE077-A715-4376-AF7B-4DCD1E7DAA2C}|ExamProject\\ExamProject.csproj|c:\\users\\99450\\desktop\\examproject\\examproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21CE077-A715-4376-AF7B-4DCD1E7DAA2C}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\ExamProject\\ExamProject\\Extentions\\ListExtensions.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Extentions\\ListExtensions.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\ExamProject\\ExamProject\\Extentions\\ListExtensions.cs",
+              "RelativeToolTip": "ExamProject\\Extentions\\ListExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:59:12.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\ExamProject\\ExamProject\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\ExamProject\\ExamProject\\Models\\Student.cs",
+              "RelativeToolTip": "ExamProject\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:39:35.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\ExamProject\\ExamProject\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\ExamProject\\ExamProject\\Models\\Exam.cs",
+              "RelativeToolTip": "ExamProject\\Models\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:46:47.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\ExamProject\\ExamProject\\Program.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Program.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\ExamProject\\ExamProject\\Program.cs",
+              "RelativeToolTip": "ExamProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:42:04.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

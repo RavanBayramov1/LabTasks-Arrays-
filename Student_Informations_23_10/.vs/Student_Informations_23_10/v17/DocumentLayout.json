@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\99450\\Desktop\\Student_Informations_23_10\\",
+  "WorkspaceRootPath": "C:\\Users\\99450\\Desktop\\LabTasks-Arrays-\\Student_Informations_23_10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25B87305-0B28-48F7-93BC-E3869D75DB9C}|Student_Informations_23_10\\Student_Informations_23_10.csproj|c:\\users\\99450\\desktop\\student_informations_23_10\\student_informations_23_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B87305-0B28-48F7-93BC-E3869D75DB9C}|Student_Informations_23_10\\Student_Informations_23_10.csproj|solutionrelative:student_informations_23_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B87305-0B28-48F7-93BC-E3869D75DB9C}|Student_Informations_23_10\\Student_Informations_23_10.csproj|c:\\users\\99450\\desktop\\student_informations_23_10\\student_informations_23_10\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25B87305-0B28-48F7-93BC-E3869D75DB9C}|Student_Informations_23_10\\Student_Informations_23_10.csproj|c:\\users\\99450\\desktop\\labtasks-arrays-\\student_informations_23_10\\student_informations_23_10\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B87305-0B28-48F7-93BC-E3869D75DB9C}|Student_Informations_23_10\\Student_Informations_23_10.csproj|solutionrelative:student_informations_23_10\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B87305-0B28-48F7-93BC-E3869D75DB9C}|Student_Informations_23_10\\Student_Informations_23_10.csproj|c:\\users\\99450\\desktop\\student_informations_23_10\\student_informations_23_10\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B87305-0B28-48F7-93BC-E3869D75DB9C}|Student_Informations_23_10\\Student_Informations_23_10.csproj|solutionrelative:student_informations_23_10\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25B87305-0B28-48F7-93BC-E3869D75DB9C}|Student_Informations_23_10\\Student_Informations_23_10.csproj|c:\\users\\99450\\desktop\\labtasks-arrays-\\student_informations_23_10\\student_informations_23_10\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B87305-0B28-48F7-93BC-E3869D75DB9C}|Student_Informations_23_10\\Student_Informations_23_10.csproj|solutionrelative:student_informations_23_10\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B87305-0B28-48F7-93BC-E3869D75DB9C}|Student_Informations_23_10\\Student_Informations_23_10.csproj|c:\\users\\99450\\desktop\\student_informations_23_10\\student_informations_23_10\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B87305-0B28-48F7-93BC-E3869D75DB9C}|Student_Informations_23_10\\Student_Informations_23_10.csproj|solutionrelative:student_informations_23_10\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25B87305-0B28-48F7-93BC-E3869D75DB9C}|Student_Informations_23_10\\Student_Informations_23_10.csproj|c:\\users\\99450\\desktop\\labtasks-arrays-\\student_informations_23_10\\student_informations_23_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B87305-0B28-48F7-93BC-E3869D75DB9C}|Student_Informations_23_10\\Student_Informations_23_10.csproj|solutionrelative:student_informations_23_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B87305-0B28-48F7-93BC-E3869D75DB9C}|Student_Informations_23_10\\Student_Informations_23_10.csproj|c:\\users\\99450\\desktop\\labtasks-arrays-\\student_informations_23_10\\student_informations_23_10\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B87305-0B28-48F7-93BC-E3869D75DB9C}|Student_Informations_23_10\\Student_Informations_23_10.csproj|solutionrelative:student_informations_23_10\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,31 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Student_Informations_23_10\\Student_Informations_23_10\\IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\LabTasks-Arrays-\\Student_Informations_23_10\\Student_Informations_23_10\\IStudentService.cs",
               "RelativeDocumentMoniker": "Student_Informations_23_10\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\99450\\Desktop\\Student_Informations_23_10\\Student_Informations_23_10\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\LabTasks-Arrays-\\Student_Informations_23_10\\Student_Informations_23_10\\IStudentService.cs",
               "RelativeToolTip": "Student_Informations_23_10\\IStudentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T08:15:41.908Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Student_Informations_23_10\\Student_Informations_23_10\\StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\LabTasks-Arrays-\\Student_Informations_23_10\\Student_Informations_23_10\\StudentService.cs",
               "RelativeDocumentMoniker": "Student_Informations_23_10\\StudentService.cs",
-              "ToolTip": "C:\\Users\\99450\\Desktop\\Student_Informations_23_10\\Student_Informations_23_10\\StudentService.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\LabTasks-Arrays-\\Student_Informations_23_10\\Student_Informations_23_10\\StudentService.cs",
               "RelativeToolTip": "Student_Informations_23_10\\StudentService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T08:33:08.367Z",
               "IsPinned": true,
@@ -58,11 +57,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Student_Informations_23_10\\Student_Informations_23_10\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\LabTasks-Arrays-\\Student_Informations_23_10\\Student_Informations_23_10\\Student.cs",
               "RelativeDocumentMoniker": "Student_Informations_23_10\\Student.cs",
-              "ToolTip": "C:\\Users\\99450\\Desktop\\Student_Informations_23_10\\Student_Informations_23_10\\Student.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\LabTasks-Arrays-\\Student_Informations_23_10\\Student_Informations_23_10\\Student.cs",
               "RelativeToolTip": "Student_Informations_23_10\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,13 +70,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\Student_Informations_23_10\\Student_Informations_23_10\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\99450\\Desktop\\LabTasks-Arrays-\\Student_Informations_23_10\\Student_Informations_23_10\\Program.cs",
               "RelativeDocumentMoniker": "Student_Informations_23_10\\Program.cs",
-              "ToolTip": "C:\\Users\\99450\\Desktop\\Student_Informations_23_10\\Student_Informations_23_10\\Program.cs",
+              "ToolTip": "C:\\Users\\99450\\Desktop\\LabTasks-Arrays-\\Student_Informations_23_10\\Student_Informations_23_10\\Program.cs",
               "RelativeToolTip": "Student_Informations_23_10\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T07:55:23.505Z",
               "EditorCaption": ""
